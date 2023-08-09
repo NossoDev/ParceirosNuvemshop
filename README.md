@@ -1,4 +1,4 @@
-# Olá, parceiro. 
+# Olá, parceiro!
 
 ## CSS
 
