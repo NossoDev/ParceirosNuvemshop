@@ -1,8 +1,3 @@
-# Links Úteis
+# Olá, parceiro. 
 
-## SVG 
-https://heroicons.com/
-
-https://tabler-icons.io/
-
-https://boxicons.com/
+Comece acessando a Wiki > https://github.com/NossoDev/Parceiros-Nuvemshop/wiki
