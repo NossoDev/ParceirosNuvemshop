@@ -1,5 +1,6 @@
-# Olá, parceiro!
-As coisas são feitas melhores quando juntamos nossas forças!
+# Olá, parceiro! 
+
+As coisas são feitas melhores quando juntamos nossas forças! 🤝
 
 Esse diretório existe para que você tenha acesso à códigos, dicas e recursos para otimizar os desenvolvimentos e ajustes de suas lojas Nuvemshop.
 
