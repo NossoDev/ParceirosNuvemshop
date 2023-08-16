@@ -41,6 +41,16 @@ https://tabler-icons.io/
 
 https://boxicons.com/
 
+### Inspiração
+
+https://dribbble.com
+
+https://awwwards.com
+
+### Geradores de código
+
+https://animista.net/ (biblioteca de animação CSS)
+
 ----
 
 ## Workshops
