@@ -18,6 +18,13 @@ Fique à vontade para contribuir. :)
 
 ----
 
+## JavaScript
+
+### Checkout
+[QrCode do PIX no Checkout](https://github.com/NossoDev/ParceirosNuvemshop/blob/main/javascript/QrCodeNoCheckout.js)
+
+----
+
 ## Componentes
 
 [FAQ](https://github.com/NossoDev/ParceirosNuvemshop/tree/main/componentes/faq)
