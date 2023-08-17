@@ -41,6 +41,8 @@ https://tabler-icons.io/
 
 https://boxicons.com/
 
+https://iconmonstr.com/
+
 ### Inspiração
 
 https://dribbble.com
