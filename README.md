@@ -20,6 +20,9 @@ Fique à vontade para contribuir. :)
 
 ## JavaScript
 
+### Storefront
+[Formatar telefone](https://github.com/NossoDev/ParceirosNuvemshop/blob/main/javascript/FormataTelefone.js)
+
 ### Checkout
 [QrCode do PIX no Checkout](https://github.com/NossoDev/ParceirosNuvemshop/blob/main/javascript/QrCodeNoCheckout.js)
 
