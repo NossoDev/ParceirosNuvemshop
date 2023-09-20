@@ -59,4 +59,7 @@ https://animista.net/ (biblioteca de animação CSS)
 ----
 
 ## Workshops
+
 [Workshop Dicas de CSS - @Koba](https://partnersacademy.nuvemshop.com.br/courses/workshop-dicas-de-css-com-koba)
+
+[Workshop Dicas de Javascript - @Jackson](https://partnersacademy.nuvemshop.com.br/courses/workshop-javascript-com-jackson)
