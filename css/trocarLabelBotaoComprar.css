@@ -1,0 +1,10 @@
+.js-addtocart, .js-open-quickshop-wording {
+    font-size: 0 !important; 
+    position: relative;
+}
+
+.js-addtocart::after, .js-open-quickshop-wording::after {
+    content: "Compre já";
+    font-size: 11px;  
+    width: 80px;
+}
