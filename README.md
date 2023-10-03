@@ -31,6 +31,8 @@ Fique à vontade para contribuir. :)
 
 [Trocar texto do botão "Comprar"](https://github.com/NossoDev/ParceirosNuvemshop/blob/main/javascript/trocarLabelBotaoComprar.js)
 
+[Trocar texto do pagamento à vista - 5% no PIX](https://github.com/NossoDev/ParceirosNuvemshop/blob/main/javascript/5-pagando-no-pix.js)
+
 ### Checkout
 [QrCode do PIX no Checkout](https://github.com/NossoDev/ParceirosNuvemshop/blob/main/javascript/QrCodeNoCheckout.js)
 
