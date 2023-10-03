@@ -10,10 +10,14 @@ Fique à vontade para contribuir. :)
 
 ## CSS
 
-### Geral
+### Storefront
+
+#### Geral
 [Slider - Responsivo](https://github.com/NossoDev/ParceirosNuvemshop/blob/main/css/slider-responsivo.css)
 
-### Vitrine
+[Trocar texto do botão "Comprar"](https://github.com/NossoDev/ParceirosNuvemshop/tree/main/css)
+
+#### Vitrine
 [Vitrine - Imagens quadradas](https://github.com/NossoDev/Parceiros-Nuvemshop/blob/main/css/vitrine-imagens-quadradas.css)
 
 ----
@@ -22,6 +26,8 @@ Fique à vontade para contribuir. :)
 
 ### Storefront
 [Formatar telefone](https://github.com/NossoDev/ParceirosNuvemshop/blob/main/javascript/FormataTelefone.js)
+
+[Trocar texto do botão "Comprar"](https://github.com/NossoDev/ParceirosNuvemshop/blob/main/javascript/trocarLabelBotaoComprar.js)
 
 ### Checkout
 [QrCode do PIX no Checkout](https://github.com/NossoDev/ParceirosNuvemshop/blob/main/javascript/QrCodeNoCheckout.js)
