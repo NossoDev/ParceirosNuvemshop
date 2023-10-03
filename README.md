@@ -17,6 +17,8 @@ Fique à vontade para contribuir. :)
 
 [Trocar texto do botão "Comprar"](https://github.com/NossoDev/ParceirosNuvemshop/tree/main/css)
 
+[Altura padrão nas thumbnails da vitrine](https://github.com/NossoDev/ParceirosNuvemshop/blob/main/css/altura-padrao-thumbnail-vitrines.css)
+
 #### Vitrine
 [Vitrine - Imagens quadradas](https://github.com/NossoDev/Parceiros-Nuvemshop/blob/main/css/vitrine-imagens-quadradas.css)
 
